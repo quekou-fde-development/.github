@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img"><title>杭州缺口 · 深色头像</title><rect x="0" y="0" width="1024" height="1024" fill="#07172B" opacity="1"/><g transform="translate(168.97689768976898 266.983498349835) scale(3.3795379537953796)"><defs xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#091833" /><stop offset="1" stop-color="#071837" /></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#386CEF" /><stop offset="1" stop-color="#376BEE" /></linearGradient>
+  </defs>
+  <path xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" d="M0 0H70V20H25V125H68V145H0Z" />
+  <path xmlns="http://www.w3.org/2000/svg" fill="url(#blue)" d="M137 0H203V145H135V125H178V20H128Z" />
+  <path xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" d="M110 53L119 57L78 145H67Z" />
+</g></svg>

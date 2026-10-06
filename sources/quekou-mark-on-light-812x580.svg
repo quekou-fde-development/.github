@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="812" height="580" viewBox="0 0 812 580" role="img"><title>缺口正式图形标 · 用于浅色背景</title><g transform="translate(0 0) scale(4.0)"><defs xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#091833" /><stop offset="1" stop-color="#071837" /></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#386CEF" /><stop offset="1" stop-color="#376BEE" /></linearGradient>
+  </defs>
+  <path xmlns="http://www.w3.org/2000/svg" fill="url(#ink)" d="M0 0H70V20H25V125H68V145H0Z" />
+  <path xmlns="http://www.w3.org/2000/svg" fill="url(#blue)" d="M137 0H203V145H135V125H178V20H128Z" />
+  <path xmlns="http://www.w3.org/2000/svg" fill="url(#ink)" d="M110 53L119 57L78 145H67Z" />
+</g></svg>
